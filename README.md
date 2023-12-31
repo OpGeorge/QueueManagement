@@ -2,7 +2,7 @@
 Prioect care simuleaza lucrul cu thread-uri in java de la sincronizare la apelare.  
 Simularea se bazeaza pe ideea unui magazin care serveste clienti prin intermediul caselor.  
 Casele sunt reprezentate de servere in cod, clientii de thread-uri.  
-Fiecare client merge la casa in funcite de disponibilitate si timpul la care ajunge  
+Fiecare client merge la casa in funcite de disponibilitate si timpul la care ajunge.  
 
 # Parametrii sunt:  
 - Time limit (s) : simuleaza cat ar fi deschise serverele (casele de la magazin care servesc clientii).
